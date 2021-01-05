@@ -1,0 +1,18 @@
+F:\8th semester\oop2\final project student user\student user\student user\bin\Debug\student user.exe.config
+F:\8th semester\oop2\final project student user\student user\student user\bin\Debug\student user.exe
+F:\8th semester\oop2\final project student user\student user\student user\bin\Debug\student user.pdb
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student user.csprojAssemblyReference.cache
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student_user.Form1.resources
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student_user.Properties.Resources.resources
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student user.csproj.GenerateResource.cache
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student user.csproj.CoreCompileInputs.cache
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student user.exe
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student user.pdb
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student_user.Form2.resources
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student_user.Form4.resources
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student_user.Form3.resources
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student_user.Form8.resources
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student_user.Form5.resources
+F:\8th semester\oop2\final project student user\student user\student user\bin\Debug\course data.mdf
+F:\8th semester\oop2\final project student user\student user\student user\bin\Debug\course data_log.ldf
+F:\8th semester\oop2\final project student user\student user\student user\obj\Debug\student_user.Form6.resources
